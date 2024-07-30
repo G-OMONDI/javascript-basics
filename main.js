@@ -24,11 +24,12 @@ let myObject = {
 // Symbol
 let mySymbol = Symbol('mySymbol');
 
-console.log(myString);
-console.log(myNumber);
-console.log(myBoolean);
-console.log(myNull);
-console.log(myUndefined);
-console.log(myObject);
-console.log(mySymbol);
+console.log('String:', myString);
+console.log('Number:', myNumber);
+console.log('Boolean:', myBoolean);
+console.log('Null:', myNull);
+console.log('Undefined:', myUndefined);
+console.log('Object:', myObject);
+console.log('Symbol:', mySymbol);
+
 
